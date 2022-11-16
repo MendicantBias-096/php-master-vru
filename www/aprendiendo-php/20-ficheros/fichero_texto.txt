@@ -1,0 +1,7 @@
+Hola Mundo desde el fichero de texto
+sas
+asas
+asasas
+as
+
+Soy un texto metido desde php
